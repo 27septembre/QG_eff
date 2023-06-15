@@ -1,9 +1,11 @@
 # Code and data for the paper
 
 ## 1. Generate training data 
+* `data/outputs/` from qg model
 * calculate the PV flux, its divergence, and eddy force function into `data/training/00/`
 * need FEniCS (version 2019.1.0) download [here]("https://fenicsproject.org/download/")
 * `qgm2_parameters.py` provides parameters
+
 
 ## 2. CNN Training
 * can directly run at the Colab or locally
