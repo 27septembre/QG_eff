@@ -5,5 +5,7 @@ need FEniCS (version 2019.1.0) download link https://fenicsproject.org/download/
 
 # 2 training
 can run at the Colab or locally
+test data has been given in data/training/00/
+
 
 
