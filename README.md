@@ -1,21 +1,22 @@
 # Code and data for the paper
 
-## 1 Generate data
+## 1. Generate data 
 * calculate the PV flux, its divergence, and eddy force function
 * need FEniCS (version 2019.1.0) download [here]("https://fenicsproject.org/download/")
+* `qgm2_parameters.py` provides parameters
 
-## 2 CNN Training
+## 2. CNN Training
 * can directly run at the Colab or locally
 * test data has been given in `data/training/00/`
 
-## 3 Plot script
+## 3. Plot script
 * all the plots in the paper, except for Fig.x
 * code to create csv file for ensemble members 
 
-## 4 for Fig.x
+## 4. for Fig.x
 * test data has been given in `data/preds/`
   
-## 5 Noise data
+## 5. Noise data
 * generate noise data into `data/noise_filtered/`
 * script 2 for training
   
