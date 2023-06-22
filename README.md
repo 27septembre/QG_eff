@@ -13,7 +13,7 @@
 
 ## 3. Plot script
 * all the plots in the paper, except for Fig.x
-* code to create csv file for ensemble members 
+* code to create csv files for ensemble members: `for_plot_20members.py`
 
 ## 4. for Fig.x
 * test data has been given in `data/preds/`
