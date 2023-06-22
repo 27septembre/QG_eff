@@ -12,10 +12,10 @@
 * test data has been given in `data/training/00/`
 
 ## 3. Plot script
-* all the plots in the paper, except for Fig.x
+* all the plots in the paper, except for Fig.7
 * code to create csv files for ensemble members: `for_plot_20members.py`
 
-## 4. for Fig.x
+## 4. for Fig.7
 * test data has been given in `data/preds/`
   
 ## 5. Noise data
