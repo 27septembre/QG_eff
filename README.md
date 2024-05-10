@@ -1,5 +1,5 @@
 # Code and data for the paper
-
+On the Choice of Training Data for Machine Learning of Geostrophic Mesoscale Turbulence
 [here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003915)
 ## 1. Generate training data 
 * `data/outputs/` from qg model
