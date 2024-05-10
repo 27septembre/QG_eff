@@ -1,5 +1,6 @@
 # Code and data for the paper
 
+[here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003915)
 ## 1. Generate training data 
 * `data/outputs/` from qg model
 * calculate the PV flux, its divergence, and eddy force function into `data/training/00/`
